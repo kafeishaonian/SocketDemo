@@ -1,2 +1,6 @@
 # SocketDemo
 Socket实现Android长链接
+
+RxJava的封装使用
+
+继承Thread.UncaughtExceptionHandler类监听app的漏洞监听
